@@ -1,0 +1,70 @@
+<!-- simulate locations to speedway for simulation-->
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    <wpt lat="40.81669" lon="-96.72351">
+        <name>TP091</name>
+    </wpt>
+    <wpt lat="40.81732" lon="-96.72307">
+        <name>TP092</name>
+    </wpt>
+    <wpt lat="40.81794" lon="-96.72265">
+        <name>TP093</name>
+    </wpt>
+    <wpt lat="40.8179391" lon="-96.722654">
+        <name>TP094</name>
+    </wpt>
+    <wpt lat="40.8181" lon="-96.72305">
+        <name>TP095</name>
+    </wpt>
+    <wpt lat="40.81831" lon="-96.72357">
+        <name>TP096</name>
+    </wpt>
+    <wpt lat="40.81836" lon="-96.72367">
+        <name>TP097</name>
+    </wpt>
+    <wpt lat="40.81843" lon="-96.72375">
+        <name>TP098</name>
+    </wpt>
+    <wpt lat="40.8185" lon="-96.72381">
+        <name>TP099</name>
+    </wpt>
+    <wpt lat="40.81851" lon="-96.72382">
+        <name>TP100</name>
+    </wpt>
+    <wpt lat="40.81859" lon="-96.72386">
+        <name>TP101</name>
+    </wpt>
+    <wpt lat="40.81904" lon="-96.72401">
+        <name>TP102</name>
+    </wpt>
+    <wpt lat="40.8190392" lon="-96.7240123">
+        <name>TP103</name>
+    </wpt>
+    <wpt lat="40.81882" lon="-96.72513">
+        <name>TP104</name>
+    </wpt>
+    <wpt lat="40.81878" lon="-96.72584">
+        <name>TP105</name>
+    </wpt>
+    <wpt lat="40.81877" lon="-96.72611">
+        <name>TP106</name>
+    </wpt>
+    <wpt lat="40.81877" lon="-96.7264">
+        <name>TP107</name>
+    </wpt>
+    <wpt lat="40.81876" lon="-96.72648">
+        <name>TP108</name>
+    </wpt>
+    <wpt lat="40.81877" lon="-96.72667">
+        <name>TP109</name>
+    </wpt>
+    <wpt lat="40.81881" lon="-96.72685">
+        <name>TP110</name>
+    </wpt>
+    <wpt lat="40.81889" lon="-96.72707">
+        <name>TP111</name>
+    </wpt>
+    <wpt lat="40.8188949" lon="-96.7270673">
+        <name>TP112</name>
+    </wpt>
+</gpx>

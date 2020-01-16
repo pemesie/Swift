@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="8q8-S6-auF">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="cRm-o8-EXG">
+            <objects>
+                <viewController id="8q8-S6-auF" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="i2G-rW-kmH">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="NewWheel" translatesAutoresizingMaskIntoConstraints="NO" id="6Im-Pr-a3P">
+                                <rect key="frame" x="87.5" y="259" width="200" height="169"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.2784313725" green="0.039215686270000001" blue="0.40784313729999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="6Im-Pr-a3P" firstAttribute="top" secondItem="NmW-Fg-4Ck" secondAttribute="top" constant="239" id="09D-LD-PvN"/>
+                            <constraint firstItem="6Im-Pr-a3P" firstAttribute="centerX" secondItem="NmW-Fg-4Ck" secondAttribute="centerX" id="RQc-Wr-7Hp"/>
+                            <constraint firstItem="6Im-Pr-a3P" firstAttribute="centerY" secondItem="NmW-Fg-4Ck" secondAttribute="centerY" id="UQ1-8z-YVj"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="NmW-Fg-4Ck"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="FYu-ms-l5t" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="48.799999999999997" y="300.89955022488761"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="NewWheel" width="200" height="200"/>
+    </resources>
+</document>

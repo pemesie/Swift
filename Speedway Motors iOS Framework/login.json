@@ -1,0 +1,33 @@
+{
+  "_source" : [ {
+	  "login" : "herbie@huskers.unl.edu",
+	  "password" : "gobigred",
+	  "user_id" : "123456",
+	  "order_number" : "5170240"
+	  },
+	  {
+          "login" : "derekemail@cox.net",
+		  "password" : "gobigred",
+		  "user_id" : "654321",
+		  "order_number" : "4449674"
+		},
+  {
+      "login" : "student1@yahoo.com",
+      "password" : "gobigred",
+      "user_id" : "958123",
+      "order_number" : "4449674"
+  },
+  {
+      "login" : "pemesie1@yahoo.fr",
+      "password" : "gobigred",
+      "user_id" : "123456",
+      "order_number" : "1234567"
+  },
+  {
+      "login" : "abc@com.com",
+      "password" : "gobigred",
+      "user_id" : "918574",
+      "order_number" : "7654321"
+  }
+  ]
+}
