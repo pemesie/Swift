@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+    <metadata>
+        <link href="http://www.mapstogpx.com">
+            <text>Sverrir Sigmundarson</text>
+        </link>
+        <!--desc>Map data ©2019 Google</desc-->
+        <!--copyright author="Google Inc">
+         <year>2019</year>
+         <license>https://developers.google.com/maps/terms</license>
+         </copyright-->
+        <!--url>https://www.google.co.uk/maps/dir/University of Nebraska-Lincoln, 1400 R St, Lincoln, NE 68588, USA/Speedway Motors, 340 Victory Ln, Lincoln, NE 68528/@40.8234094,-96.7226884,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x8796bea750a6cdbd:0x5d8d3c22f9423b8f!2m2!1d-96.7004763!2d40.8201966!1m5!1m1!1s0x8796bf1384675bd1:0xa5fbdd501f533363!2m2!1d-96.727391!2d40.818401!3e0?hl=en</url-->
+        <time>2019-02-13T21:51:31Z</time>
+    </metadata>
+    <wpt lat="40.8201966" lon="-96.7004763">
+        <name>University of Nebraska-Lincoln</name>
+        <desc>University of Nebraska-Lincoln, 1400 R St, Lincoln, NE 68588, USA</desc>
+    </wpt>
+<!--    <wpt lat="40.818401" lon="-96.727391">-->
+<!--        <name>Speedway Motors</name>-->
+<!--        <desc>Speedway Motors, 340 Victory Ln, Lincoln, NE 68528, USA</desc>-->
+<!--    </wpt>-->
+</gpx>

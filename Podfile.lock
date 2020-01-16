@@ -1,0 +1,59 @@
+PODS:
+  - GoogleMaps (3.0.3):
+    - GoogleMaps/Maps (= 3.0.3)
+  - GoogleMaps/Base (3.0.3)
+  - GoogleMaps/Maps (3.0.3):
+    - GoogleMaps/Base
+  - GooglePlaces (3.0.3):
+    - GoogleMaps/Base (= 3.0.3)
+  - ImageSlideshow (1.7.0):
+    - ImageSlideshow/Core (= 1.7.0)
+  - ImageSlideshow/Core (1.7.0)
+  - SwiftyJSON (4.2.0)
+  - ZDCChat (1.4.0):
+    - ZDCChat/API (= 1.4.0)
+    - ZDCChat/Localization (= 1.4.0)
+    - ZDCChat/UI (= 1.4.0)
+  - ZDCChat/API (1.4.0)
+  - ZDCChat/Localization (1.4.0)
+  - ZDCChat/UI (1.4.0):
+    - ZDCChat/API
+  - ZendeskSDK (2.3.0):
+    - ZendeskSDK/Providers (= 2.3.0)
+    - ZendeskSDK/UI (= 2.3.0)
+  - ZendeskSDK/Core (2.3.0)
+  - ZendeskSDK/Providers (2.3.0):
+    - ZendeskSDK/Core
+  - ZendeskSDK/UI (2.3.0):
+    - ZendeskSDK/Core
+    - ZendeskSDK/Providers
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces (= 3.0.3)
+  - ImageSlideshow
+  - SwiftyJSON (= 4.2)
+  - ZDCChat
+  - ZendeskSDK (= 2.3.0)
+  - ZendeskSDK/Providers
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleMaps
+    - GooglePlaces
+    - ImageSlideshow
+    - SwiftyJSON
+    - ZDCChat
+    - ZendeskSDK
+
+SPEC CHECKSUMS:
+  GoogleMaps: fd5c9fa58871781b9fb94d4936f19c69fe60ce32
+  GooglePlaces: f09e76993c9c3ee4af8f4f7f535bb94d6aa3b649
+  ImageSlideshow: f8eec5e37a980f60923b585ff23b0e140fd24018
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  ZDCChat: 1def9764647bb81cf71aebd9df38aa4024c52d12
+  ZendeskSDK: af6509ad7968d367f95b2645713802712152f879
+
+PODFILE CHECKSUM: 9a9c36a837d041e5c8448fb439fd69cfd5e66693
+
+COCOAPODS: 1.6.1
